@@ -1,0 +1,4 @@
+aiogram~=3.3.0
+aiogram-dialog~=2.1.0
+environs~=10.3.0
+pandas~=2.2.0
